@@ -1,6 +1,4 @@
-# Project 1 - *Scavenger Hunt*
-
-Submitted by: **Aryan Lakhani**
+*Scavenger Hunt*
 
 **Photo Scavenger Hunt** is an app that provides a list of tasks for users to complete. Users are required to attach photos to show that they have completed the task. After attaching the photo to a task, the app retrieves the location metadata from the photo and displays where the photo was taken on a map. [TODO] 
 
@@ -16,13 +14,10 @@ The following **required** functionality is completed:
 - [x] When adding photo of task, the location is added
 - [x] User returns to home page (list of tasks) and the status of your task is updated to complete
  
-The following **optional** features are implemented:
 
-- [ ] User can launch camera to snap a picture	
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 - [x] Included 4 additional photos to the designated task and also shows the location metadata
 
 ## Video Walkthrough
