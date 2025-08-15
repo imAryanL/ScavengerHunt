@@ -1,4 +1,4 @@
-*Scavenger Hunt*
+# *Scavenger Hunt*
 
 **Photo Scavenger Hunt** is an app that provides a list of tasks for users to complete. Users are required to attach photos to show that they have completed the task. After attaching the photo to a task, the app retrieves the location metadata from the photo and displays where the photo was taken on a map. [TODO] 
 
